@@ -1,2 +1,3 @@
 # SI7021
+## I2C software simulation
 SI7021-A20 AND STM32F103ZET6
